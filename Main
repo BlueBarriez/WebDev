@@ -4,6 +4,9 @@
 <head>
 <title>BlueBarries</title>
 <style>
+  body {
+    background-color: #ddd;
+  }
 </style>
 </head>
 <body>
